@@ -8,7 +8,7 @@ NOTE: Colors may look different depending on the colors set for your terminal. I
 ### How to install
 
 ```sh
-  git clone https://github.com/josepmdc/inertia.git $HOME/dev/inertia
+  git clone https://github.com/josepmdc/inertia.git $HOME/dev/inertia \
   ln -s "$HOME/dev/inertia/inertia.zsh-theme" "$ZSH_CUSTOM/themes/inertia.zsh-theme"
 ```
 
